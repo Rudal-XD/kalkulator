@@ -10,9 +10,9 @@ def main():
     printf("\t4. Pembagian\n");
 
     printf("Pilih menu : ");
-    scanf(menu);
+    scanf("%d",menu);
     printf("-------------------------------\n");
-    switch (menu){
+    switch (menu)
       case 1:
         printf("\n1. Penjumlahan :\n");
         printf("Masukan bilangan pertama : ");
