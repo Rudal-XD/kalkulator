@@ -10,7 +10,7 @@ def main():
     printf("\t4. Pembagian\n");
 
     printf("Pilih menu : ");
-    scanf("%d",&menu);
+    scanf(menu);
     printf("-------------------------------\n");
     switch (menu){
       case 1:
