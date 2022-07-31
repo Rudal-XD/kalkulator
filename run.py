@@ -1,6 +1,5 @@
 def main():
-
-{
+{"""
     int a, b, hasil, menu;
     float c, d, hasilbagi;
     printf("====================================\n");
@@ -59,6 +58,6 @@ def main():
       default:
         printf("Anda salah memilih menu.");
         break;
-    }
+    """}
     return 0;
 }
