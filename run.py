@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-int main()
 {
     int a, b, hasil, menu;
     float c, d, hasilbagi;
