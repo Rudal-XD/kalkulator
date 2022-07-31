@@ -1,7 +1,5 @@
 def main():
     main()
-    int a, b, hasil, menu;
-    float c, d, hasilbagi;
     printf("====================================\n");
     printf("Program Kalkulator Sederhana\n");
     printf("====================================\n\n");
