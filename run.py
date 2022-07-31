@@ -1,4 +1,4 @@
-#include <stdio.h>
+def main():
 
 {
     int a, b, hasil, menu;
