@@ -38,7 +38,6 @@ B = random.choice([U,I,K,b,M])
 
 
 def kontol():
-    os.system("clear")
     print(f"""    __    _________________   _______ ______
    / /   /  _/ ____/ ____/ | / / ___// ____/
   / /    / // /   / __/ /  |/ /\__ \/ __/
@@ -52,3 +51,10 @@ masuk = input('angka1 : ')
 masuk = input('angka2 : ')
 tambah = masuk + masuk
 print("Totalnya Adalah"), tambah
+
+
+if __name__=='__main__':
+    os.system('clear')
+
+
+
