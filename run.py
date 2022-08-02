@@ -53,6 +53,6 @@ def banner():
 masuk = input('angka1 : {Q}') 
 masuk = input('angka2 : {K}')
 tambah = masuk + masuk
-{B}print("Totalnya Adalah"), tambah
+print("Totalnya Adalah"), tambah{J}
 
 
