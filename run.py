@@ -1,4 +1,6 @@
 #python 
+import requests,bs4,json,os,sys,random,datetime,time,re
+
 x = '\33[m' # DEFAULT
 k = '\033[93m' # KUNING +
 h = '\x1b[1;92m' # HIJAU +
