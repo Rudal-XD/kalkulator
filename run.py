@@ -50,9 +50,9 @@ def banner():
 {P}[•] AUTHOR: Rudal-XD
 {P}[•] WHATSAPP: 62895386194665
 {B}[•] FACEBOOK: Gaming Bubrah""")
-masuk = input('angka1 : ') 
-masuk = input('angka2 : ')
+{B}masuk = input('angka1 : ') 
+{B}masuk = input('angka2 : ')
 tambah = masuk + masuk
-print("Totalnya Adalah"), tambah
+{B}print("Totalnya Adalah"), tambah
 
 
