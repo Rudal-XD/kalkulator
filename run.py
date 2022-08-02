@@ -35,6 +35,9 @@ H='\033[0;33m'
 b = '\033[0;36m'
 war = "[•]"
 B = random.choice([U,I,K,b,M])
+if __name__=='__main__':
+    os.system('clear')
+
 
 
 def kontol():
@@ -51,10 +54,5 @@ masuk = input('angka1 : ')
 masuk = input('angka2 : ')
 tambah = masuk + masuk
 print("Totalnya Adalah"), tambah
-
-
-if __name__=='__main__':
-    os.system('clear')
-
 
 
